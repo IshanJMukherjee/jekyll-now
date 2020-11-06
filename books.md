@@ -17,20 +17,20 @@ Here, I document the books that I am currently reading, have read, or plan to re
 
 Books that I am especially excited appear in __bold__. However, at the cost of repeating myself, the books in this list are arranged in no particular order. (Note: There are several reasons I could be excited to read a certian book, not the least of which is that I could have already part of it or the book is on the recommended reading list of a college that I'm gunning for.)
 
--	__*Logicomix: An Epic Search for Truth* by Apostolos Doxiadis and Christos Papadimitriou__
--	__*Good Economics for Hard Times* by Abhijit V. Banerjee & Esther Duflo__
--	__*Enlightenment Now* by Steven Pinker__
--	__*Open Borders* by Bryan Caplan and Zach Weinersmith__
--	__*On Libertarianism* by JS Mill__
-- __*The Structure of Scientific Revolutions* by Thomas Kuhn__
--	__*Nudge* by Richard Thaler & Cass R. Sunstein__
--	__*Antifragile* by Nicholas Nassim Taleb__
--	__*The Communist Manifesto* by Karl Marx and Friedrich Engels__
--	__*Economic Growth* by David Weil__
--	__*Naked Statistics* by Charles Wheelan__
-- __*Factfulness* by Hans Rosling__
--	__*Think* by Simon Blackburn__
--	__*Anarchy, State & Utopia* by Robert Nozick__
+-	__*Logicomix: An Epic Search for Truth*__ by Apostolos Doxiadis and Christos Papadimitriou
+-	__*Good Economics for Hard Times*__ by Abhijit V. Banerjee & Esther Duflo
+-	__*Enlightenment Now*__ by Steven Pinker
+-	__*Open Borders*__ by Bryan Caplan and Zach Weinersmith
+-	__*On Libertarianism*__ by John Stuart Mill
+- __*The Structure of Scientific Revolutions*__ by Thomas Kuhn
+-	__*Nudge*__ by Richard Thaler & Cass R. Sunstein
+-	__*Antifragile*__ by Nicholas Nassim Taleb
+-	__*The Communist Manifesto*__ by Karl Marx and Friedrich Engels
+-	__*Economic Growth*__ by David Weil
+-	__*Naked Statistics*__ by Charles Wheelan
+- __*Factfulness*__ by Hans Rosling
+-	__*Think*__ by Simon Blackburn
+-	__*Anarchy, State & Utopia*__ by Robert Nozick
 - *Doing Good Better* by Will MacAskill
 -	*Understanding Power* by Noam Chomsky
 -	*The Art of Strategy* by Avinash Dixit and Barry Nalebuff
