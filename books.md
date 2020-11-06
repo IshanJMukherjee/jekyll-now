@@ -21,7 +21,7 @@ Books that I am especially excited about appear in __bold__.
 -	__*Good Economics for Hard Times*__ by Abhijit V. Banerjee & Esther Duflo
 -	__*Enlightenment Now*__ by Steven Pinker
 -	__*Open Borders*__ by Bryan Caplan and Zach Weinersmith
--	__*On Libertarianism*__ by John Stuart Mill
+-	__*On Liberty*__ by John Stuart Mill
 - __*The Structure of Scientific Revolutions*__ by Thomas Kuhn
 -	__*Nudge*__ by Richard Thaler & Cass R. Sunstein
 -	__*Antifragile*__ by Nicholas Nassim Taleb
@@ -31,10 +31,13 @@ Books that I am especially excited about appear in __bold__.
 - __*Factfulness*__ by Hans Rosling
 -	__*Think*__ by Simon Blackburn
 -	__*Anarchy, State & Utopia*__ by Robert Nozick
+- *Republic* by Plato
+- *Meditations* by Marcus Aurelius
 - *Doing Good Better* by Will MacAskill
 -	*Understanding Power* by Noam Chomsky
 -	*The Art of Strategy* by Avinash Dixit and Barry Nalebuff
 -	*Capitalism and Freedom* by Milton Friedman
+- *The Fountainhead* by Ayn Rand
 -	*Gödel, Escher, Bach* by Douglas Hofstadter
 -	*Problems of Philosophy* by Bertrand Russell
 -	*Why Nations Fail* by Daron Acemoglu and James A. Robinson
