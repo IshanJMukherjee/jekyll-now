@@ -15,44 +15,44 @@ Here, I document the books that I am currently reading, have read, or plan to re
 
 ## Plan to read soon:
 
-Books that I am especially excited about are in __bold__. (Note: There are several reasons I could be excited to read a certian book, not the least of which is that I could have already part of it or the book is on the recommended reading list of a college that I'm gunning for.)
+Books that I am especially excited appear in __bold__. However, at the cost of repeating myself, the books in this list are arranged in no particular order. (Note: There are several reasons I could be excited to read a certian book, not the least of which is that I could have already part of it or the book is on the recommended reading list of a college that I'm gunning for.)
 
+-	__*Logicomix: An Epic Search for Truth* by Apostolos Doxiadis and Christos Papadimitriou__
 -	__*Good Economics for Hard Times* by Abhijit V. Banerjee & Esther Duflo__
+-	__*Enlightenment Now* by Steven Pinker__
 -	__*Open Borders* by Bryan Caplan and Zach Weinersmith__
--	*Understanding Power* by Noam Chomsky
--	*The Art of Strategy* by Avinash Dixit and Barry Nalebuff
+-	__*On Libertarianism* by JS Mill__
 - __*The Structure of Scientific Revolutions* by Thomas Kuhn__
 -	__*Nudge* by Richard Thaler & Cass R. Sunstein__
 -	__*Antifragile* by Nicholas Nassim Taleb__
--	*Capitalism and Freedom* by Milton Friedman
 -	__*The Communist Manifesto* by Karl Marx and Friedrich Engels__
+-	__*Economic Growth* by David Weil__
+-	__*Naked Statistics* by Charles Wheelan__
+- __*Factfulness* by Hans Rosling__
+-	__*Think* by Simon Blackburn__
+-	__*Anarchy, State & Utopia* by Robert Nozick__
+- *Doing Good Better* by Will MacAskill
+-	*Understanding Power* by Noam Chomsky
+-	*The Art of Strategy* by Avinash Dixit and Barry Nalebuff
+-	*Capitalism and Freedom* by Milton Friedman
 -	*Gödel, Escher, Bach* by Douglas Hofstadter
 -	*Problems of Philosophy* by Bertrand Russell
 -	*Why Nations Fail* by Daron Acemoglu and James A. Robinson
 -	*Self-Reliance and Other Essays* by Ralph Waldo Emerson
 - *Walden* by Henry D. Thoreau
 -	*Growth* by Vaclav Smil
--	__*Economic Growth* by David Weil__
--	__*Naked Statistics* by Charles Wheelan__
--	*An Introduction to Political Philosophy* by Jonathan Wolff \[reread\]
--	*Discipline and Punish* by Michel Foucault
--	__*Anarchy, State & Utopia* by Robert Nozick__
--	__*On Libertarianism* by JS Mill__
--	*Freakonomics* by Steven Levitt and Stephen J. Dubner \[reread\] 
--	__*Think* by Simon Blackburn__
--	__*Logicomix: An Epic Search for Truth* by Apostolos Doxiadis and Christos Papadimitriou__ 
+-	*Discipline and Punish* by Michel Foucault 
 - *Economics in One Lesson* by Henry Hazlitt
 -	*Chaos* by James Gleick
 -	*The Handmaid’s Tale* by Margaret Atwood
 -	*Midnight’s Children* by Salman Rushdie
 -	*For the Love of Physics* by Walter Lewin
 -	*Steve Jobs* by Walter Isaacson
-- __*Factfulness* by Hans Rosling__
 -	*1984* by George Orwell
 -	*Animal Farm* by George Orwell
--	__*Enlightenment Now* by Steven Pinker__
 - *Algorithms to Live By* by Brian Christian and Thomas L. Griffiths 
-- *Doing Good Better* by Will MacAskill
+-	*Freakonomics* by Steven Levitt and Stephen J. Dubner \[reread\] 
+-	*An Introduction to Political Philosophy* by Jonathan Wolff \[reread\]
 
 ## Have read:
 
