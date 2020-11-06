@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a high school student from Varanasi, India. I am interested in STEM, economics, international relations and debating. This is where I blog about topics that I have spent a significant amount of time thinking about. Also: book reviews, what I'm reading/watching/listening.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+I am [@ishanjmukherjee](https://twitter.com/ishanjmukherjee) on Twitter.
+Email: [ishanmukherjee1234@gmail.com](mailto:ishanmukherjee1234@gmail.com)
