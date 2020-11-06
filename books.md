@@ -15,7 +15,7 @@ Here, I document the books that I am currently reading, have read, or plan to re
 
 ## Plan to read soon:
 
-Books that I am especially excited appear in __bold__. However, at the cost of repeating myself, the books in this list are arranged in no particular order. (Note: There are several reasons I could be excited to read a certian book, not the least of which is that I could have already part of it or the book is on the recommended reading list of a college that I'm gunning for.)
+Books that I am especially excited appear in __bold__. However, at the cost of repeating myself, the books in this list are arranged in no particular order. (Note: There are several reasons I could be excited to read a certian book, not the least of which is that I could have already read part of it or the book is on the recommended reading list of a college that I'm gunning for.)
 
 -	__*Logicomix: An Epic Search for Truth*__ by Apostolos Doxiadis and Christos Papadimitriou
 -	__*Good Economics for Hard Times*__ by Abhijit V. Banerjee & Esther Duflo
