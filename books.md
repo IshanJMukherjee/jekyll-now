@@ -12,12 +12,12 @@ Here, I document the books that I am currently reading, have read, or plan to re
 - *Macroeconomics* by Gregory N. Mankiw
 - *Intermediate Microeconomics: A Modern Approach* by Hal Varian
 - *Black Swan* by Nicholas Nassim Taleb
+-	*Logicomix: An Epic Search for Truth* by Apostolos Doxiadis and Christos Papadimitriou
 
 ## Plan to read soon:
 
 Books that I am especially excited about appear in __bold__. 
 
--	__*Logicomix: An Epic Search for Truth*__ by Apostolos Doxiadis and Christos Papadimitriou
 -	__*Good Economics for Hard Times*__ by Abhijit V. Banerjee & Esther Duflo
 -	__*Enlightenment Now*__ by Steven Pinker
 -	__*Open Borders*__ by Bryan Caplan and Zach Weinersmith
@@ -53,7 +53,8 @@ Books that I am especially excited about appear in __bold__.
 -	*Steve Jobs* by Walter Isaacson
 -	*1984* by George Orwell
 -	*Animal Farm* by George Orwell
-- *Algorithms to Live By* by Brian Christian and Thomas L. Griffiths 
+- *Algorithms to Live By* by Brian Christian and Thomas L. Griffiths
+- *Zen and the Art of Motorcycle Maintenance* by Robert M. Pirsig
 -	*Freakonomics* by Steven Levitt and Stephen J. Dubner \[reread\] 
 -	*An Introduction to Political Philosophy* by Jonathan Wolff \[reread\]
 
