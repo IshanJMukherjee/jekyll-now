@@ -55,6 +55,7 @@ Books that I am especially excited about appear in __bold__.
 -	*Animal Farm* by George Orwell
 - *Algorithms to Live By* by Brian Christian and Thomas L. Griffiths
 - *Zen and the Art of Motorcycle Maintenance* by Robert M. Pirsig
+- *Moonwalking with Einstein* by Joshua Foer
 -	*Freakonomics* by Steven Levitt and Stephen J. Dubner \[reread\] 
 -	*An Introduction to Political Philosophy* by Jonathan Wolff \[reread\]
 
